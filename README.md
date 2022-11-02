@@ -2,7 +2,7 @@
 - 👀 I’m interested in Stories
 - 🌱 I’m currently learning How to talk to computers
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me at sharmayaksh945@gmail.com
+- 📫 Reach me at sharmayaksh945@gmail.com
 
 ### &nbsp;GitHub Analytics
 
